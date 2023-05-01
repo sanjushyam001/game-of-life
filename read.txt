@@ -1,4 +1,9 @@
 #This is the read file to get the information related to the project 
 adding line 1
 adding line 2
+<<<<<<< HEAD
 adding line 5
+=======
+adding line 3
+adding line 4
+>>>>>>> eaddf5e7f47c0a1481ef99e6c397bdeace23ff46
