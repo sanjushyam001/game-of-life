@@ -1,4 +1,4 @@
-ode('JDK8'){
+node('JDK8'){
         stage('SourceCode'){
                 //get the code from git repo
 
