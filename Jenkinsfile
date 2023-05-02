@@ -2,7 +2,7 @@ ode('JDK8'){
         stage('SourceCode'){
                 //get the code from git repo
 
-                git branch: 'sprint1_develop', url: 'https://github.com/sanjushyam001/game-of-life.git'
+                git branch: 'master', url: 'https://github.com/sanjushyam001/game-of-life.git'
         }
 
         stage('Build the code'){
